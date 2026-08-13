@@ -32,14 +32,6 @@ Welcome to my little corner of GitHub! I'm a passionate coder who loves diving i
 🎮 Favorite Hobby: Gaming & Coding
 ```
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zylarie&show_icons=true&theme=dracula&bg_color=1a1a1a&title_color=ff69b4&icon_color=ff69b4)](https://github.com/Zylarie)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zylarie&layout=compact&theme=dracula&bg_color=1a1a1a&title_color=ff69b4)](https://github.com/Zylarie)
-
----
-
 ## 🎀 Fun Facts About Me
 
 - ✨ I believe code is art—every function is a brushstroke

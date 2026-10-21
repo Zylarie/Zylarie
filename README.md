@@ -12,7 +12,7 @@
 
 ## 💖 About Me
 
-Welcome to my little corner of GitHub! I'm a passionate coder who loves diving into Python projects, crafting game mods, and exploring the endless possibilities of programming. For me, coding is more than just a skill—it's a creative outlet and a never-ending adventure! 🎮✨
+Welcome to my little corner on GitHub! I'm a passionate coder who loves diving into Python projects, crafting game mods, and exploring the endless possibilities of programming. For me, coding is more than just a skill—it's a creative outlet and a never-ending adventure! 🎮✨
 
 🌸 **What I Love:**
 - 🐍 Writing clean, elegant Python code
